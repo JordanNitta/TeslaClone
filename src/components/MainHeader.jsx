@@ -2,7 +2,9 @@ import React from 'react'
 
 const MainHeader = () => {
   return (
-    <div>MainHeader</div>
+    <div>
+        <h1>SONNY waas here 5/19/23 2:37 PM</h1>
+    </div>
   )
 }
 
