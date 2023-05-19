@@ -5,7 +5,6 @@ function App() {
     <Routes>
       <Route />
     </Routes>
-    
   );
 }
 
